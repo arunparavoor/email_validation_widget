@@ -6,6 +6,7 @@
     'description': """Email Validation Widget(OWl Javascript)""",
     'company': 'Tech4Logic',
     'website': 'https://tech4logic.wordpress.com/',
+    'author': 'Arun Reghu Kumar',
     'depends' : ['base', 'web'],
     'data': [
         'security/ir.model.access.csv',
